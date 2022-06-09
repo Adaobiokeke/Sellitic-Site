@@ -155,13 +155,13 @@ const Home = () => {
         <Slider />
       </section>
       <section className= 'pilot-sec'>
-        <h1 style={{textAlign: 'center'}}>The Sellitic Pilot Program</h1>
+        <h1 style={{textAlign: 'center'}} className="pi-title">The Sellitic Pilot Program</h1>
         <h3 className="pilot">
           We are commencing our pilot program in July, 2022. 
           As a result, we are lookin for artists and artisans from Nigeria and Canada to be part of what we are hoping to achieve at SELLITIC.
         </h3>
         <br/>
-        <h3 className="pilot1">
+        <h3 className="pilot1" style={{textAlign: 'center'}}>
           Click below for details
         </h3>
         <br/>
@@ -173,7 +173,8 @@ const Home = () => {
             </Link>
       </section>
       <section className="vid-sec">
-      <h1 style={{textAlign: 'center'}}>To Drive Prosperity Within the Informal Economy </h1>
+        <h1 style={{textAlign: 'center'}}  className="pi-title">Our Mission</h1>
+      <h1 style={{textAlign: 'center' ,marginTop:'-67px'}}  className="pi-title">To Drive Prosperity Within the Informal Economy </h1>
           <br />
       </section>
       <section className="footer-sec">

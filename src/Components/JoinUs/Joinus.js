@@ -21,7 +21,7 @@ const Joinus = () => {
         </h3>
         <br/>
         <br/>
-        <a href='https://form.jotform.com/221524122884250' target='_blank' rel='noreferrer'>
+        <a href='https://share.hsforms.com/1JS7hUwoZROCzEpGcYoJWSQco3zp' target='_blank' rel='noreferrer'>
         <button className="mini-button2">
             Register Now
           </button> 
@@ -36,7 +36,7 @@ const Joinus = () => {
         </h3>
         <br/>
         <br/>
-        <a href='https://form.jotform.com/221524122884250' target='_blank' rel='noreferrer'>
+        <a href='https://share.hsforms.com/1JS7hUwoZROCzEpGcYoJWSQco3zp' target='_blank' rel='noreferrer'>
         <button className="mini-button2">
             Register Now
           </button> 
@@ -51,7 +51,7 @@ const Joinus = () => {
         </h3>
         <br/>
         <br/>
-        <a href='https://form.jotform.com/221524122884250' target='_blank' rel='noreferrer'>
+        <a href='https://share.hsforms.com/1JS7hUwoZROCzEpGcYoJWSQco3zp' target='_blank' rel='noreferrer'>
         <button className="mini-button2">
             Register Now
           </button> 
@@ -59,7 +59,7 @@ const Joinus = () => {
        <br/>
       </Grid>
       <Grid item xs={12} sm={12} md={6}>
-        <img src={Artisan} alt= 'pilot-img'/>
+        <img src={Artisan} alt= 'pilot-img' className='pilotimage'/>
         </Grid>
     </Grid>
 

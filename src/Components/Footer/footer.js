@@ -4,9 +4,6 @@ import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import TwitterIcon from "@mui/icons-material/Twitter";
-import GitHubIcon from "@mui/icons-material/GitHub";
-import TelegramIcon from "@mui/icons-material/Telegram";
-import Medium from "../Assets/medumicon-removebg.png";
 
 
 
@@ -17,7 +14,7 @@ const footer = () => {
       <div className="footer-div">
         <div className="footericon">
           <a
-            href="https://www.facebook.com/afomacanada"
+            href="https://www.facebook.com/afomaglobal"
             target="_blank"
             rel="noreferrer"
           >
@@ -26,7 +23,7 @@ const footer = () => {
         </div>
         <div className="footericon">
           <a
-            href="https://www.twitter.com/afomacanada"
+            href="https://www.twitter.com/afomaglobal"
             target="_blank"
             rel="noreferrer"
           >
